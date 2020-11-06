@@ -1,0 +1,33 @@
+input[type=button]{
+	background: #b7b0e4;
+	font-weight: 500;
+	margin: 2%;
+	border-radius: 4px;
+	box-shadow: 1px 3px #383636;
+}
+
+input[type=text]{
+	width: 90%;
+	font-size: 20px;
+	border: 4px inset #55084c;
+	border-width: 6px;
+}
+
+body{
+	font-weight: bold;
+	background-image: url("../img/image.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+}
+nav{
+	height: 150px;
+}
+
+h1{
+	margin: 0 auto;
+}
+
+form { 
+margin: 0 auto; 
+width:500px;
+}
